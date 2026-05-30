@@ -59,31 +59,7 @@ Artverlay/
 
 ---
 
-## 🚀 Getting Started (วิธีการเปิดใช้งานตัวโปรแกรม)
 
-### Prerequisites (สิ่งที่ต้องมี)
-* **Node.js** (เวอร์ชัน 18 ขึ้นไป)
-* **npm** หรือโปรแกรมช่วยแพ็คอื่น ๆ 
-
-### Installation & Execution (การติดตั้งและรัน)
-
-1. ติดตั้งไลบรารีที่จำเป็นทั้งหมด:
-   ```bash
-   npm install
-   ```
-
-2. เปิดเซิร์ฟเวอร์จำลองการพัฒนา (Local Development Server):
-   ```bash
-   npm run dev
-   ```
-   จากนั้นกดเปิดลิงก์เพื่อเข้าใช้งานที่ **[http://localhost:5173](http://localhost:5173)** ในบราวเซอร์ของคุณ!
-
-3. การสร้างชุดประกอบสำหรับนำไปใช้งานจริง (Build Production Bundle):
-   ```bash
-   npm run build
-   ```
-
----
 
 ## 🎨 Premium Neo-Brutalist Colors Palette
 
@@ -97,4 +73,4 @@ Artverlay/
 
 ---
 
-### Developed with ✦ for Creativity and High-End UX
+### Developed with ✦ for Creativity
