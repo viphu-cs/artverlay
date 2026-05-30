@@ -1,7 +1,7 @@
 # ✦ ARTVERLAY ✦
 ### Premium Neo-Brutalist HTML Layer Art Studio
 
-![Artverlay Premium Neo-Brutalist Logo](C:\Users\Viphu\.gemini\antigravity\brain\840ff629-aa53-4d2b-b5b0-46ca0c1fcabf\artverlay_brutal_logo_1780169601812.png)
+![Artverlay Premium Neo-Brutalist Logo](public/favicon.png)
 
 **Artverlay** คือเว็บแอปพลิเคชันสำหรับสร้างสรรค์งานศิลปะ Generative Layer Art แบบจัดวางเลเยอร์ด้วย HTML, CSS Scoped และ WYSIWYG Shape Generators โดยถูกออกแบบภายใต้สไตล์ **Neo-Brutalist** ที่เน้นสีสันจัดจ้าน แผงขอบดำหนาคมชัด และเด้งเงามิติเฉียบขาด โครงการนี้รองรับระบบทัชสกรีนบนมือถืออย่างสมบูรณ์แบบร้อยเปอร์เซ็นต์!
 
